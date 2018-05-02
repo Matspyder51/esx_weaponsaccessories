@@ -1,6 +1,6 @@
 USE `essentialmode`;
 
-INSERT INTO `items` (id, name, label, limit, rare, can_remove) VALUES
+INSERT INTO `items` (id, name, label, `limit`, rare, can_remove) VALUES
   (NULL, 'silent','Silenced',-1, 0, 1),
   (NULL, 'flashlight','Flashlight',-1, 0, 1),
   (NULL, 'grip','Grip',-1, 0, 1),
