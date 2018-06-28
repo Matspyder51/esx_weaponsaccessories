@@ -18,5 +18,5 @@ INSERT INTO `items` (id, name, label, `limit`, rare, can_remove) VALUES
   (NULL, 'fmj','Perforating Bullets',-1, 0, 1),
   (NULL, 'lazer_scope','Lazer Scope',-1, 0, 1),
   (NULL, 'compansator','Compensator',-1, 0, 1),
-  (NULL, 'barrel','Barrel',-1, 0, 1),
+  (NULL, 'barrel','Barrel',-1, 0, 1)
 ;
